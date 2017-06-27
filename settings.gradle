@@ -1,1 +1,1 @@
-include ':app', ':javalibrary', ':mylibrary', ':backend'
+include ':app', ':javalibrary', ':mylibrary', ':backend', ':gcemodule'
